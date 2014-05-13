@@ -1,0 +1,4 @@
+WHQ
+===
+
+Warhammer Quest data
